@@ -6,4 +6,4 @@ A. John, B. Cardiff and D. John, "A 1D-CNN Based Deep Learning Technique for Sle
 
 Code for model M1 in the article is shared in the jupyter noebook.
 
-The google drive at which the raw and processed data was hosted has expired. New location will be updated here soon.
+The raw data converted .mat file and the processed data are stored in a private onederive. Please request access by contacting https://people.utwente.nl/a.john
